@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "API Gateway",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "AppStream",
+    "regions": [
+      "N. Virginia"
+    ]
+  },
+  {
+    "name": "AppStream 2.0",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Athena",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Ireland",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Auto Scaling",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Batch",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Billing Console",
+    "regions": null
+  },
+  {
+    "name": "Certificate Manager",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Chime",
+    "regions": null
+  },
+  {
+    "name": "Cloud Directory",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney"
+    ]
+  },
+  {
+    "name": "CloudFormation",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CloudFront",
+    "regions": null
+  },
+  {
+    "name": "CloudHSM",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CloudSearch",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CloudTrail",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CloudWatch",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CodeBuild",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CodeCommit",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CodeDeploy",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CodePipeline",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "CodeStar",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "Singapore",
+      "Sydney"
+    ]
+  },
+  {
+    "name": "Cognito",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Config",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Connect",
+    "regions": [
+      "N. Virginia",
+      "Frankfurt",
+      "Sydney"
+    ]
+  },
+  {
+    "name": "Data Pipeline",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Database Migration Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Device Farm",
+    "regions": [
+      "Oregon"
+    ]
+  },
+  {
+    "name": "Direct Connect",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Directory Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "DynamoDB",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "DynamoDB Accelerator",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "EC2 Container Registry",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "EC2 Container Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "EC2 Systems Manager",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elastic Beanstalk",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elastic Compute Cloud",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elastic File System",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "Sydney"
+    ]
+  },
+  {
+    "name": "Elastic Load Balancing",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elastic MapReduce",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elastic Transcoder",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Mumbai",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "ElastiCache",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Elasticsearch Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "GameLift",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Glacier",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Glue",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon"
+    ]
+  },
+  {
+    "name": "Greengrass",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Frankfurt",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Identity and Access Management",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Import/Export",
+    "regions": null
+  },
+  {
+    "name": "Inspector",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Mumbai",
+      "Seoul",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Internet Connectivity",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "IoT",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Key Management Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Kinesis",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Kinesis Analytics",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Kinesis Firehose",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Lambda",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Lex",
+    "regions": [
+      "N. Virginia"
+    ]
+  },
+  {
+    "name": "Lightsail",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "regions": [
+      "N. Virginia",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Macie",
+    "regions": [
+      "N. Virginia",
+      "Oregon"
+    ]
+  },
+  {
+    "name": "Management Console",
+    "regions": null
+  },
+  {
+    "name": "Marketplace",
+    "regions": null
+  },
+  {
+    "name": "Migration Hub",
+    "regions": [
+      "Oregon"
+    ]
+  },
+  {
+    "name": "Mobile Analytics",
+    "regions": [
+      "N. Virginia"
+    ]
+  },
+  {
+    "name": "Mobile Hub",
+    "regions": [
+      "N. Virginia"
+    ]
+  },
+  {
+    "name": "OpsWorks for Chef Automate",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "OpsWorks Stacks",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Organizations",
+    "regions": null
+  },
+  {
+    "name": "Pinpoint",
+    "regions": [
+      "N. Virginia"
+    ]
+  },
+  {
+    "name": "Polly",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "QuickSight",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Ireland",
+      "Singapore",
+      "Sydney"
+    ]
+  },
+  {
+    "name": "Redshift",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Rekognition",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Relational Database Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Resource Groups Tagging API",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Route 53",
+    "regions": null
+  },
+  {
+    "name": "Route 53 Domain Registration",
+    "regions": null
+  },
+  {
+    "name": "Route 53 Private DNS",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Service Catalog",
+    "regions": [
+      "Montreal",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Simple Email Service",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Simple Notification Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Simple Queue Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Simple Storage Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Simple Workflow Service",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "SimpleDB",
+    "regions": [
+      "N. California",
+      "N. Virginia",
+      "Oregon",
+      "Sao Paulo",
+      "Ireland",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Step Functions",
+    "regions": [
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Storage Gateway",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Virtual Private Cloud",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "WAF",
+    "regions": null
+  },
+  {
+    "name": "WorkDocs",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "WorkMail",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "WorkSpaces",
+    "regions": [
+      "N. Virginia",
+      "Oregon",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "X-Ray",
+    "regions": [
+      "Montreal",
+      "N. California",
+      "N. Virginia",
+      "Ohio",
+      "Oregon",
+      "Sao Paulo",
+      "Frankfurt",
+      "Ireland",
+      "London",
+      "Mumbai",
+      "Seoul",
+      "Singapore",
+      "Sydney",
+      "Tokyo"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "name": "aws-products",
+  "version": "1.0.0",
+  "description": "List of Amazon Web Services (AWS) products",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && npm run test-node",
+    "test-node": "tape test/**/*.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js",
+    "detailed.js",
+    "aws-products.json",
+    "aws-products-detailed.json"
+  ],
+  "keywords": [
+    "amazon",
+    "web",
+    "services",
+    "aws",
+    "products",
+    "list"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hisener/aws-products.git"
+  },
+  "author": {
+    "name": "Halil İbrahim Şener",
+    "email": "hisener@yahoo.com",
+    "url": "halilsener.com"
+  },
+  "license": "MIT"
+}
