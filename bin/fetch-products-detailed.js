@@ -22,7 +22,8 @@ rp(options)
       if (!products[product]) {
         products[product] = {
           name: product,
-          regions: []
+          regions: [],
+          code: getCodeFromRssUrl($(this).parent().find('a').attr('href'))
         }
       }
 
@@ -42,6 +43,8 @@ rp(options)
       .map(key => {
         if (products[key].regions.length === 0) {
           products[key].regions = null
+        } else {
+          delete products[key].code
         }
         return products[key]
       })

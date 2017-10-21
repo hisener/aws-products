@@ -227,7 +227,8 @@
   },
   {
     "name": "Billing Console",
-    "regions": null
+    "regions": null,
+    "code": "billingconsole"
   },
   {
     "name": "Certificate Manager",
@@ -292,7 +293,8 @@
   },
   {
     "name": "Chime",
-    "regions": null
+    "regions": null,
+    "code": "chime"
   },
   {
     "name": "Cloud Directory",
@@ -390,7 +392,8 @@
   },
   {
     "name": "CloudFront",
-    "regions": null
+    "regions": null,
+    "code": "cloudfront"
   },
   {
     "name": "CloudHSM",
@@ -2117,7 +2120,8 @@
   },
   {
     "name": "Import/Export",
-    "regions": null
+    "regions": null,
+    "code": "import-export"
   },
   {
     "name": "Inspector",
@@ -2573,11 +2577,13 @@
   },
   {
     "name": "Management Console",
-    "regions": null
+    "regions": null,
+    "code": "management-console"
   },
   {
     "name": "Marketplace",
-    "regions": null
+    "regions": null,
+    "code": "marketplace"
   },
   {
     "name": "Migration Hub",
@@ -2682,7 +2688,8 @@
   },
   {
     "name": "Organizations",
-    "regions": null
+    "regions": null,
+    "code": "organizations"
   },
   {
     "name": "Pinpoint",
@@ -2949,11 +2956,13 @@
   },
   {
     "name": "Route 53",
-    "regions": null
+    "regions": null,
+    "code": "route53"
   },
   {
     "name": "Route 53 Domain Registration",
-    "regions": null
+    "regions": null,
+    "code": "route53domainregistration"
   },
   {
     "name": "Route 53 Private DNS",
@@ -3520,7 +3529,8 @@
   },
   {
     "name": "WAF",
-    "regions": null
+    "regions": null,
+    "code": "awswaf"
   },
   {
     "name": "WorkDocs",

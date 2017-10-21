@@ -64,7 +64,8 @@ console.log(awsProducts)
   ...
   {
     "name": "Route 53",
-    "regions": null
+    "regions": null,
+    "code": "route53"
   },
   ...
 ]
