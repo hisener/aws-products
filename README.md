@@ -27,7 +27,16 @@ npm install aws-products
 const awsProducts = require('aws-products')
 
 console.log(awsProducts)
-//=> ['API Gateway', 'AppStream', 'AppStream 2.0', 'Athena', 'Auto Scaling', ...]
+/*
+[
+  'API Gateway',
+  'AppStream',
+  'AppStream 2.0',
+  'Athena',
+  'Auto Scaling',
+  ...
+]
+*/
 ```
 
 And products with regions:
@@ -36,7 +45,30 @@ And products with regions:
 const awsProducts = require('aws-products/detailed')
 
 console.log(awsProducts)
-//=> [ { name: 'API Gateway', regions: [ 'Montreal', 'N. California', ...] }, { name: 'AppStream', regions: [ 'N. Virginia' ] }, ...]
+/*
+[
+  {
+    name: 'API Gateway',
+    regions: [
+       { "name": "Montreal", "code": "apigateway-ca-central-1" },
+       { "name": "N. California", "code": "apigateway-us-west-1" },
+       ...
+    ]
+  },
+  {
+    name: 'AppStream',
+    regions: [
+      { "name": "N. Virginia", "code": "appstream-us-east-1" }
+    ]
+  },
+  ...
+  {
+    "name": "Route 53",
+    "regions": null
+  },
+  ...
+]
+*/
 ```
 
 ## Update json files

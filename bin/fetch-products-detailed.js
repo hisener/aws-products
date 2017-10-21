@@ -27,8 +27,14 @@ rp(options)
       }
 
       let regExp = new RegExp(/(.+)\((.*)\)/).exec($(this).text())
-      if (regExp && products[product].regions.indexOf(regExp[2]) === -1) {
-        products[product].regions.push(regExp[2])
+      if (regExp && regExp[2]) {
+        let rssUrl = $(this).parent().find('a').attr('href')
+
+        let region = {
+          name: regExp[2],
+          code: getCodeFromRssUrl(rssUrl)
+        }
+        products[product].regions.push(region)
       }
     })
 
@@ -55,4 +61,8 @@ function removeUnnecessaryWords (str) {
     return str.substr(str.indexOf(' ') + 1)
   }
   return str
+}
+
+function getCodeFromRssUrl (str) {
+  return str.replace(/^\/rss\/(.+)\.rss$/, '$1')
 }

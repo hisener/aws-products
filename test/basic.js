@@ -16,7 +16,12 @@ test('`aws-products/detailed` is an array of detailed product', function (t) {
   t.true(awsDetailedProducts[0].hasOwnProperty('name'))
   t.true(awsDetailedProducts[0].hasOwnProperty('regions'))
   t.true(Array.isArray(awsDetailedProducts[0].regions))
-  t.equal(typeof awsDetailedProducts[0].regions[0], 'string')
+  t.equal(typeof awsDetailedProducts[0].regions[0], 'object')
+
+  t.equal(typeof awsDetailedProducts[0].regions[0].name, 'string')
+  t.true(awsDetailedProducts[0].regions[0].name.length > 1)
+  t.equal(typeof awsDetailedProducts[0].regions[0].code, 'string')
+  t.true(awsDetailedProducts[0].regions[0].code.length > 1)
 
   t.end()
 })

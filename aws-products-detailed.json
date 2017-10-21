@@ -2,80 +2,227 @@
   {
     "name": "API Gateway",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "apigateway-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "apigateway-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "apigateway-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "apigateway-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "apigateway-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "apigateway-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "apigateway-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "apigateway-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "apigateway-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "apigateway-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "apigateway-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "apigateway-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "apigateway-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "apigateway-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "AppStream",
     "regions": [
-      "N. Virginia"
+      {
+        "name": "N. Virginia",
+        "code": "appstream-us-east-1"
+      }
     ]
   },
   {
     "name": "AppStream 2.0",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "appstream2-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "appstream2-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "appstream2-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "appstream2-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Athena",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Ireland",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "athena-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "athena-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "athena-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "athena-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "athena-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "athena-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "athena-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Auto Scaling",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "autoscaling-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "autoscaling-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "autoscaling-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "autoscaling-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "autoscaling-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "autoscaling-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "autoscaling-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "autoscaling-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "autoscaling-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "autoscaling-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "autoscaling-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "autoscaling-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "autoscaling-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "autoscaling-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Batch",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "batch-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "batch-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "batch-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "batch-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "batch-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "batch-eu-west-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "batch-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "batch-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "batch-ap-northeast-1"
+      }
     ]
   },
   {
@@ -85,20 +232,62 @@
   {
     "name": "Certificate Manager",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "certificatemanager-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "certificatemanager-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "certificatemanager-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "certificatemanager-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "certificatemanager-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "certificatemanager-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "certificatemanager-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "certificatemanager-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "certificatemanager-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "certificatemanager-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "certificatemanager-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "certificatemanager-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "certificatemanager-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "certificatemanager-ap-northeast-1"
+      }
     ]
   },
   {
@@ -108,32 +297,95 @@
   {
     "name": "Cloud Directory",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney"
+      {
+        "name": "N. Virginia",
+        "code": "clouddirectory-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "clouddirectory-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "clouddirectory-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "clouddirectory-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "clouddirectory-eu-west-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "clouddirectory-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "clouddirectory-ap-southeast-2"
+      }
     ]
   },
   {
     "name": "CloudFormation",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "cloudformation-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "cloudformation-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "cloudformation-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cloudformation-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloudformation-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "cloudformation-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cloudformation-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloudformation-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "cloudformation-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "cloudformation-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "cloudformation-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloudformation-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cloudformation-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cloudformation-ap-northeast-1"
+      }
     ]
   },
   {
@@ -143,562 +395,1724 @@
   {
     "name": "CloudHSM",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "cloudhsm-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "cloudhsm-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "cloudhsm-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cloudhsm-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloudhsm-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cloudhsm-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloudhsm-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloudhsm-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cloudhsm-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cloudhsm-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CloudSearch",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "cloudsearch-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "cloudsearch-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloudsearch-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "cloudsearch-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cloudsearch-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloudsearch-eu-west-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "cloudsearch-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloudsearch-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cloudsearch-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cloudsearch-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CloudTrail",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "cloudtrail-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "cloudtrail-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "cloudtrail-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cloudtrail-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloudtrail-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "cloudtrail-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cloudtrail-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloudtrail-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "cloudtrail-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "cloudtrail-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "cloudtrail-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloudtrail-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cloudtrail-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cloudtrail-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CloudWatch",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "cloudwatch-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "cloudwatch-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "cloudwatch-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cloudwatch-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloudwatch-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "cloudwatch-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cloudwatch-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloudwatch-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "cloudwatch-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "cloudwatch-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "cloudwatch-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloudwatch-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cloudwatch-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cloudwatch-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CodeBuild",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "codebuild-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "codebuild-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "codebuild-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "codebuild-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "codebuild-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "codebuild-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "codebuild-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "codebuild-eu-west-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "codebuild-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "codebuild-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "codebuild-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CodeCommit",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "codecommit-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "codecommit-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "codecommit-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "codecommit-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "codecommit-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "codecommit-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "codecommit-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "codecommit-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "codecommit-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "codecommit-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "codecommit-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "codecommit-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "codecommit-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "codecommit-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CodeDeploy",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "codedeploy-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "codedeploy-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "codedeploy-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "codedeploy-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "codedeploy-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "codedeploy-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "codedeploy-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "codedeploy-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "codedeploy-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "codedeploy-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "codedeploy-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "codedeploy-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "codedeploy-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "codedeploy-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CodePipeline",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "codepipeline-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "codepipeline-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "codepipeline-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "codepipeline-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "codepipeline-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "codepipeline-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "codepipeline-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "codepipeline-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "codepipeline-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "codepipeline-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "codepipeline-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "codepipeline-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "codepipeline-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "codepipeline-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "CodeStar",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "Singapore",
-      "Sydney"
+      {
+        "name": "N. Virginia",
+        "code": "codestar-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "codestar-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "codestar-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "codestar-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "codestar-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "codestar-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "codestar-ap-southeast-2"
+      }
     ]
   },
   {
     "name": "Cognito",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "cognito-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cognito-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cognito-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "cognito-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "cognito-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "cognito-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "cognito-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "cognito-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "cognito-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "cognito-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "cognito-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Config",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "config-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "config-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "config-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "config-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "config-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "config-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "config-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "config-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "config-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "config-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "config-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "config-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "config-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "config-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Connect",
     "regions": [
-      "N. Virginia",
-      "Frankfurt",
-      "Sydney"
+      {
+        "name": "N. Virginia",
+        "code": "connect-us-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "connect-eu-central-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "connect-ap-southeast-2"
+      }
     ]
   },
   {
     "name": "Data Pipeline",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "datapipeline-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "datapipeline-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "datapipeline-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "datapipeline-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "datapipeline-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Database Migration Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "dms-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "dms-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "dms-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "dms-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "dms-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "dms-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "dms-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "dms-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "dms-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "dms-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "dms-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "dms-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "dms-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "dms-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Device Farm",
     "regions": [
-      "Oregon"
+      {
+        "name": "Oregon",
+        "code": "devicefarm-us-west-2"
+      }
     ]
   },
   {
     "name": "Direct Connect",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "directconnect-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "directconnect-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "directconnect-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "directconnect-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "directconnect-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "directconnect-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "directconnect-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "directconnect-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "directconnect-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "directconnect-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "directconnect-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "directconnect-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "directconnect-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "directconnect-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Directory Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "directoryservice-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "directoryservice-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "directoryservice-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "directoryservice-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "directoryservice-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "directoryservice-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "directoryservice-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "directoryservice-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "directoryservice-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "directoryservice-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "directoryservice-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "directoryservice-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "directoryservice-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "DynamoDB",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "dynamodb-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "dynamodb-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "dynamodb-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "dynamodb-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "dynamodb-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "dynamodb-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "dynamodb-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "dynamodb-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "dynamodb-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "dynamodb-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "dynamodb-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "dynamodb-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "dynamodb-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "dynamodb-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "DynamoDB Accelerator",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "dynamodb-dax-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "dynamodb-dax-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "dynamodb-dax-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "dynamodb-dax-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "dynamodb-dax-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "EC2 Container Registry",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "ecr-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ecr-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ecr-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ecr-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ecr-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ecr-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ecr-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ecr-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "ecr-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ecr-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ecr-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ecr-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "EC2 Container Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "ecs-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ecs-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ecs-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ecs-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ecs-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ecs-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ecs-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ecs-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "ecs-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ecs-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ecs-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ecs-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "EC2 Systems Manager",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "ec2systemsmanager-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ec2systemsmanager-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ec2systemsmanager-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ec2systemsmanager-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ec2systemsmanager-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "ec2systemsmanager-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ec2systemsmanager-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ec2systemsmanager-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ec2systemsmanager-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "ec2systemsmanager-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "ec2systemsmanager-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ec2systemsmanager-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ec2systemsmanager-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ec2systemsmanager-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elastic Beanstalk",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "elasticbeanstalk-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "elasticbeanstalk-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "elasticbeanstalk-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "elasticbeanstalk-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "elasticbeanstalk-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "elasticbeanstalk-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elasticbeanstalk-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "elasticbeanstalk-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "elasticbeanstalk-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "elasticbeanstalk-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "elasticbeanstalk-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "elasticbeanstalk-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elasticbeanstalk-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elasticbeanstalk-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elastic Compute Cloud",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "ec2-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ec2-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ec2-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ec2-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ec2-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "ec2-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ec2-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ec2-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ec2-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "ec2-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "ec2-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ec2-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ec2-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ec2-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elastic File System",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "Sydney"
+      {
+        "name": "N. Virginia",
+        "code": "elasticfilesystem-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "elasticfilesystem-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "elasticfilesystem-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elasticfilesystem-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "elasticfilesystem-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elasticfilesystem-ap-southeast-2"
+      }
     ]
   },
   {
     "name": "Elastic Load Balancing",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "elb-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "elb-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "elb-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "elb-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "elb-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "elb-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elb-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "elb-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "elb-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "elb-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "elb-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "elb-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elb-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elb-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elastic MapReduce",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "emr-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "emr-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "emr-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "emr-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "emr-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "emr-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "emr-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "emr-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "emr-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "emr-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "emr-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "emr-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "emr-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "emr-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elastic Transcoder",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Mumbai",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "elastictranscoder-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "elastictranscoder-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "elastictranscoder-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "elastictranscoder-eu-west-1"
+      },
+      {
+        "name": "Mumbai",
+        "code": "elastictranscoder-ap-south-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "elastictranscoder-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elastictranscoder-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elastictranscoder-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "ElastiCache",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "elasticache-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "elasticache-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "elasticache-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "elasticache-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "elasticache-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "elasticache-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elasticache-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "elasticache-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "elasticache-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "elasticache-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "elasticache-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "elasticache-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elasticache-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elasticache-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Elasticsearch Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "elasticsearch-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "elasticsearch-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "elasticsearch-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "elasticsearch-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "elasticsearch-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "elasticsearch-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elasticsearch-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "elasticsearch-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "elasticsearch-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "elasticsearch-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "elasticsearch-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "elasticsearch-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elasticsearch-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elasticsearch-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "GameLift",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "gamelift-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "gamelift-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "gamelift-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "gamelift-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "gamelift-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "gamelift-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "gamelift-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "gamelift-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "gamelift-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "gamelift-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "gamelift-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "gamelift-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "gamelift-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "gamelift-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Glacier",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "glacier-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "glacier-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "glacier-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "glacier-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "glacier-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "glacier-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "glacier-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "glacier-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "glacier-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "glacier-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "glacier-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "glacier-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "glacier-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Glue",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon"
+      {
+        "name": "N. Virginia",
+        "code": "glue-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "glue-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "glue-us-west-2"
+      }
     ]
   },
   {
     "name": "Greengrass",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Frankfurt",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "awsgreengrass-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "awsgreengrass-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "awsgreengrass-eu-central-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "awsgreengrass-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "awsgreengrass-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Identity and Access Management",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "iam-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "iam-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "iam-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "iam-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "iam-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "iam-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "iam-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "iam-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "iam-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "iam-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "iam-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "iam-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "iam-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "iam-ap-northeast-1"
+      }
     ]
   },
   {
@@ -708,159 +2122,453 @@
   {
     "name": "Inspector",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Mumbai",
-      "Seoul",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "inspector-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "inspector-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "inspector-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "inspector-eu-west-1"
+      },
+      {
+        "name": "Mumbai",
+        "code": "inspector-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "inspector-ap-northeast-2"
+      },
+      {
+        "name": "Sydney",
+        "code": "inspector-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "inspector-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Internet Connectivity",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "internetconnectivity-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "internetconnectivity-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "internetconnectivity-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "internetconnectivity-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "internetconnectivity-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "internetconnectivity-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "internetconnectivity-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "internetconnectivity-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "internetconnectivity-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "internetconnectivity-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "internetconnectivity-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "internetconnectivity-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "internetconnectivity-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "internetconnectivity-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "IoT",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "awsiot-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "awsiot-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "awsiot-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "awsiot-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "awsiot-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "awsiot-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "awsiot-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "awsiot-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "awsiot-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "awsiot-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Key Management Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "kms-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "kms-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "kms-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "kms-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "kms-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "kms-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "kms-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "kms-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "kms-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "kms-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "kms-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "kms-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "kms-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "kms-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Kinesis",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "kinesis-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "kinesis-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "kinesis-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "kinesis-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "kinesis-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "kinesis-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "kinesis-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "kinesis-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "kinesis-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "kinesis-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "kinesis-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "kinesis-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "kinesis-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "kinesis-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Kinesis Analytics",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "kinesisanalytics-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "kinesisanalytics-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "kinesisanalytics-eu-west-1"
+      }
     ]
   },
   {
     "name": "Kinesis Firehose",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "firehose-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "firehose-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "firehose-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "firehose-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "firehose-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "firehose-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Lambda",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "lambda-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "lambda-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "lambda-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "lambda-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "lambda-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "lambda-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "lambda-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "lambda-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "lambda-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "lambda-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "lambda-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "lambda-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "lambda-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "lambda-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Lex",
     "regions": [
-      "N. Virginia"
+      {
+        "name": "N. Virginia",
+        "code": "lex-us-east-1"
+      }
     ]
   },
   {
     "name": "Lightsail",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "lightsail-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "lightsail-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "lightsail-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "lightsail-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "lightsail-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "lightsail-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "lightsail-ap-south-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "lightsail-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "lightsail-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "lightsail-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Machine Learning",
     "regions": [
-      "N. Virginia",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "aml-us-east-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "aml-eu-west-1"
+      }
     ]
   },
   {
     "name": "Macie",
     "regions": [
-      "N. Virginia",
-      "Oregon"
+      {
+        "name": "N. Virginia",
+        "code": "macie-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "macie-us-west-2"
+      }
     ]
   },
   {
@@ -874,45 +2582,102 @@
   {
     "name": "Migration Hub",
     "regions": [
-      "Oregon"
+      {
+        "name": "Oregon",
+        "code": "migrationhub-us-west-2"
+      }
     ]
   },
   {
     "name": "Mobile Analytics",
     "regions": [
-      "N. Virginia"
+      {
+        "name": "N. Virginia",
+        "code": "analytics-us-east-1"
+      }
     ]
   },
   {
     "name": "Mobile Hub",
     "regions": [
-      "N. Virginia"
+      {
+        "name": "N. Virginia",
+        "code": "mobilehub-us-east-1"
+      }
     ]
   },
   {
     "name": "OpsWorks for Chef Automate",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "opsworkschef-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "opsworkschef-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "opsworkschef-eu-west-1"
+      }
     ]
   },
   {
     "name": "OpsWorks Stacks",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "opsworks-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "opsworks-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "opsworks-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "opsworks-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "opsworks-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "opsworks-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "opsworks-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "opsworks-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "opsworks-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "opsworks-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "opsworks-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "opsworks-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "opsworks-ap-northeast-1"
+      }
     ]
   },
   {
@@ -922,92 +2687,264 @@
   {
     "name": "Pinpoint",
     "regions": [
-      "N. Virginia"
+      {
+        "name": "N. Virginia",
+        "code": "pinpoint-us-east-1"
+      }
     ]
   },
   {
     "name": "Polly",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "polly-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "polly-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "polly-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "polly-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "polly-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "QuickSight",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Ireland",
-      "Singapore",
-      "Sydney"
+      {
+        "name": "N. Virginia",
+        "code": "quicksight-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "quicksight-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "quicksight-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "quicksight-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "quicksight-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "quicksight-ap-southeast-2"
+      }
     ]
   },
   {
     "name": "Redshift",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "redshift-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "redshift-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "redshift-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "redshift-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "redshift-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "redshift-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "redshift-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "redshift-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "redshift-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "redshift-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "redshift-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "redshift-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "redshift-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "redshift-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Rekognition",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "rekognition-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "rekognition-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "rekognition-eu-west-1"
+      }
     ]
   },
   {
     "name": "Relational Database Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "rds-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "rds-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "rds-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "rds-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "rds-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "rds-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "rds-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "rds-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "rds-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "rds-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "rds-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "rds-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "rds-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "rds-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Resource Groups Tagging API",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "resourcegroupstaggingapi-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "resourcegroupstaggingapi-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "resourcegroupstaggingapi-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "resourcegroupstaggingapi-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "resourcegroupstaggingapi-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "resourcegroupstaggingapi-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "resourcegroupstaggingapi-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "resourcegroupstaggingapi-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "resourcegroupstaggingapi-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "resourcegroupstaggingapi-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "resourcegroupstaggingapi-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "resourcegroupstaggingapi-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "resourcegroupstaggingapi-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "resourcegroupstaggingapi-ap-northeast-1"
+      }
     ]
   },
   {
@@ -1021,183 +2958,564 @@
   {
     "name": "Route 53 Private DNS",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "route53-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "route53-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "route53-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "route53-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "route53-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "route53-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "route53-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "route53-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "route53-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "route53-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "route53-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "route53-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "route53-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "route53-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Service Catalog",
     "regions": [
-      "Montreal",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "servicecatalog-ca-central-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "servicecatalog-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "servicecatalog-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "servicecatalog-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "servicecatalog-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "servicecatalog-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "servicecatalog-eu-west-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "servicecatalog-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "servicecatalog-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "servicecatalog-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Simple Email Service",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "ses-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "ses-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "ses-eu-west-1"
+      }
     ]
   },
   {
     "name": "Simple Notification Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "sns-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "sns-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "sns-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "sns-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "sns-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "sns-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "sns-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "sns-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "sns-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "sns-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "sns-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "sns-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "sns-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "sns-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Simple Queue Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "sqs-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "sqs-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "sqs-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "sqs-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "sqs-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "sqs-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "sqs-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "sqs-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "sqs-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "sqs-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "sqs-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "sqs-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "sqs-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "sqs-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Simple Storage Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "s3-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "s3-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "s3-us-standard"
+      },
+      {
+        "name": "Ohio",
+        "code": "s3-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "s3-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "s3-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "s3-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "s3-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "s3-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "s3-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "s3-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "s3-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "s3-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "s3-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Simple Workflow Service",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "swf-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "swf-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "swf-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "swf-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "swf-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "swf-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "swf-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "swf-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "swf-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "swf-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "swf-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "swf-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "swf-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "swf-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "SimpleDB",
     "regions": [
-      "N. California",
-      "N. Virginia",
-      "Oregon",
-      "Sao Paulo",
-      "Ireland",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. California",
+        "code": "simpledb-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "simpledb-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "simpledb-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "simpledb-sa-east-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "simpledb-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "simpledb-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "simpledb-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "simpledb-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Step Functions",
     "regions": [
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "state-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "state-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "state-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "state-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "state-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "state-eu-west-2"
+      },
+      {
+        "name": "Sydney",
+        "code": "state-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "state-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Storage Gateway",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "storagegateway-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "storagegateway-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "storagegateway-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "storagegateway-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "storagegateway-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "storagegateway-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "storagegateway-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "storagegateway-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "storagegateway-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "storagegateway-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "storagegateway-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "storagegateway-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "storagegateway-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "storagegateway-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "Virtual Private Cloud",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "vpc-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "vpc-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "vpc-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "vpc-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "vpc-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "vpc-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "vpc-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "vpc-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "vpc-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "vpc-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "vpc-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "vpc-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "vpc-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "vpc-ap-northeast-1"
+      }
     ]
   },
   {
@@ -1207,52 +3525,145 @@
   {
     "name": "WorkDocs",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "workdocs-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "workdocs-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "workdocs-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "workdocs-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "workdocs-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "workdocs-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "WorkMail",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Ireland"
+      {
+        "name": "N. Virginia",
+        "code": "workmail-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "workmail-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "workmail-eu-west-1"
+      }
     ]
   },
   {
     "name": "WorkSpaces",
     "regions": [
-      "N. Virginia",
-      "Oregon",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "N. Virginia",
+        "code": "workspaces-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "workspaces-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "workspaces-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "workspaces-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "workspaces-eu-west-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "workspaces-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "workspaces-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "workspaces-ap-northeast-1"
+      }
     ]
   },
   {
     "name": "X-Ray",
     "regions": [
-      "Montreal",
-      "N. California",
-      "N. Virginia",
-      "Ohio",
-      "Oregon",
-      "Sao Paulo",
-      "Frankfurt",
-      "Ireland",
-      "London",
-      "Mumbai",
-      "Seoul",
-      "Singapore",
-      "Sydney",
-      "Tokyo"
+      {
+        "name": "Montreal",
+        "code": "xray-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "xray-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "xray-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "xray-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "xray-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "xray-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "xray-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "xray-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "xray-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "xray-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "xray-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "xray-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "xray-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "xray-ap-northeast-1"
+      }
     ]
   }
 ]
