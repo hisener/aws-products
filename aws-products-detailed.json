@@ -106,6 +106,10 @@
         "code": "athena-us-west-2"
       },
       {
+        "name": "Frankfurt",
+        "code": "athena-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "athena-eu-west-1"
       },
