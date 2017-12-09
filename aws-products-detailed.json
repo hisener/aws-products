@@ -1,5 +1,14 @@
 [
   {
+    "name": "Alexa for Business",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "a4b-us-east-1"
+      }
+    ]
+  },
+  {
     "name": "API Gateway",
     "regions": [
       {
@@ -112,6 +121,18 @@
       {
         "name": "Ireland",
         "code": "athena-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "athena-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "athena-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "athena-ap-northeast-2"
       },
       {
         "name": "Singapore",
@@ -330,6 +351,31 @@
       {
         "name": "Sydney",
         "code": "clouddirectory-ap-southeast-2"
+      }
+    ]
+  },
+  {
+    "name": "Cloud9",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "cloud9-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "cloud9-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "cloud9-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "cloud9-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "cloud9-ap-southeast-1"
       }
     ]
   },
@@ -926,6 +972,27 @@
     ]
   },
   {
+    "name": "Comprehend",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "comprehend-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "comprehend-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "comprehend-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "comprehend-eu-west-1"
+      }
+    ]
+  },
+  {
     "name": "Config",
     "regions": [
       {
@@ -1303,112 +1370,6 @@
     ]
   },
   {
-    "name": "EC2 Container Registry",
-    "regions": [
-      {
-        "name": "Montreal",
-        "code": "ecr-ca-central-1"
-      },
-      {
-        "name": "N. California",
-        "code": "ecr-us-west-1"
-      },
-      {
-        "name": "N. Virginia",
-        "code": "ecr-us-east-1"
-      },
-      {
-        "name": "Ohio",
-        "code": "ecr-us-east-2"
-      },
-      {
-        "name": "Oregon",
-        "code": "ecr-us-west-2"
-      },
-      {
-        "name": "Frankfurt",
-        "code": "ecr-eu-central-1"
-      },
-      {
-        "name": "Ireland",
-        "code": "ecr-eu-west-1"
-      },
-      {
-        "name": "London",
-        "code": "ecr-eu-west-2"
-      },
-      {
-        "name": "Seoul",
-        "code": "ecr-ap-northeast-2"
-      },
-      {
-        "name": "Singapore",
-        "code": "ecr-ap-southeast-1"
-      },
-      {
-        "name": "Sydney",
-        "code": "ecr-ap-southeast-2"
-      },
-      {
-        "name": "Tokyo",
-        "code": "ecr-ap-northeast-1"
-      }
-    ]
-  },
-  {
-    "name": "EC2 Container Service",
-    "regions": [
-      {
-        "name": "Montreal",
-        "code": "ecs-ca-central-1"
-      },
-      {
-        "name": "N. California",
-        "code": "ecs-us-west-1"
-      },
-      {
-        "name": "N. Virginia",
-        "code": "ecs-us-east-1"
-      },
-      {
-        "name": "Ohio",
-        "code": "ecs-us-east-2"
-      },
-      {
-        "name": "Oregon",
-        "code": "ecs-us-west-2"
-      },
-      {
-        "name": "Frankfurt",
-        "code": "ecs-eu-central-1"
-      },
-      {
-        "name": "Ireland",
-        "code": "ecs-eu-west-1"
-      },
-      {
-        "name": "London",
-        "code": "ecs-eu-west-2"
-      },
-      {
-        "name": "Seoul",
-        "code": "ecs-ap-northeast-2"
-      },
-      {
-        "name": "Singapore",
-        "code": "ecs-ap-southeast-1"
-      },
-      {
-        "name": "Sydney",
-        "code": "ecs-ap-southeast-2"
-      },
-      {
-        "name": "Tokyo",
-        "code": "ecs-ap-northeast-1"
-      }
-    ]
-  },
-  {
     "name": "EC2 Systems Manager",
     "regions": [
       {
@@ -1588,6 +1549,112 @@
       {
         "name": "Tokyo",
         "code": "ec2-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Elastic Container Registry",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "ecr-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ecr-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ecr-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ecr-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ecr-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ecr-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ecr-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ecr-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "ecr-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ecr-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ecr-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ecr-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Elastic Container Service",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "ecs-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ecs-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ecs-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ecs-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ecs-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ecs-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ecs-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ecs-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "ecs-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ecs-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ecs-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ecs-ap-northeast-1"
       }
     ]
   },
@@ -1902,6 +1969,164 @@
     ]
   },
   {
+    "name": "Elemental MediaConvert",
+    "regions": [
+      {
+        "name": "N. California",
+        "code": "mediaconvert-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "mediaconvert-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "mediaconvert-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "mediaconvert-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "mediaconvert-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "mediaconvert-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "mediaconvert-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "mediaconvert-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Elemental MediaLive",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "elementalmedialive-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "elementalmedialive-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "elementalmedialive-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "elementalmedialive-ap-southeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Elemental MediaPackage",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "elementalmediapackage-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "elementalmediapackage-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "elementalmediapackage-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "elementalmediapackage-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elementalmediapackage-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elementalmediapackage-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Elemental MediaStore",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "elementalmediastore-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "elementalmediastore-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "elementalmediastore-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "elementalmediastore-ap-southeast-2"
+      }
+    ]
+  },
+  {
+    "name": "Elemental MediaTailor",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "mediatailor-us-east-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "mediatailor-eu-west-1"
+      }
+    ]
+  },
+  {
+    "name": "FreeRTOS",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "freertos-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "freertos-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "freertos-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "freertos-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "freertos-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "freertos-eu-west-2"
+      },
+      {
+        "name": "Sydney",
+        "code": "freertos-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "freertos-ap-northeast-1"
+      }
+    ]
+  },
+  {
     "name": "GameLift",
     "regions": [
       {
@@ -2058,6 +2283,67 @@
       {
         "name": "Tokyo",
         "code": "awsgreengrass-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "GuardDuty",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "guardduty-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "guardduty-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "guardduty-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "guardduty-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "guardduty-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "guardduty-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "guardduty-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "guardduty-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "guardduty-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "guardduty-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "guardduty-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "guardduty-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "guardduty-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "guardduty-ap-northeast-1"
       }
     ]
   },
@@ -2271,6 +2557,11 @@
     ]
   },
   {
+    "name": "IoT Device Management",
+    "regions": null,
+    "code": "awsiotdevicemanagement"
+  },
+  {
     "name": "Key Management Service",
     "regions": [
       {
@@ -2439,6 +2730,31 @@
     ]
   },
   {
+    "name": "Kinesis Video Streams",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "acuity-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "acuity-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "acuity-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "acuity-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "acuity-ap-northeast-1"
+      }
+    ]
+  },
+  {
     "name": "Lambda",
     "regions": [
       {
@@ -2505,6 +2821,10 @@
       {
         "name": "N. Virginia",
         "code": "lex-us-east-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "lex-eu-west-1"
       }
     ]
   },
@@ -2613,6 +2933,35 @@
       {
         "name": "N. Virginia",
         "code": "mobilehub-us-east-1"
+      }
+    ]
+  },
+  {
+    "name": "MQ",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "mq-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "mq-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "mq-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "mq-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "mq-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "mq-ap-southeast-2"
       }
     ]
   },
@@ -2898,6 +3247,11 @@
     ]
   },
   {
+    "name": "Resource Groups",
+    "regions": null,
+    "code": "resourcegroups"
+  },
+  {
     "name": "Resource Groups Tagging API",
     "regions": [
       {
@@ -3026,6 +3380,27 @@
       {
         "name": "Tokyo",
         "code": "route53-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "SageMaker",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "sagemaker-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "sagemaker-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "sagemaker-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "sagemaker-eu-west-1"
       }
     ]
   },
