@@ -48,6 +48,10 @@
         "code": "apigateway-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "apigateway-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "apigateway-ap-south-1"
       },
@@ -66,15 +70,6 @@
       {
         "name": "Tokyo",
         "code": "apigateway-ap-northeast-1"
-      }
-    ]
-  },
-  {
-    "name": "AppStream",
-    "regions": [
-      {
-        "name": "N. Virginia",
-        "code": "appstream-us-east-1"
       }
     ]
   },
@@ -188,6 +183,10 @@
         "code": "autoscaling-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "autoscaling-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "autoscaling-ap-south-1"
       },
@@ -293,6 +292,10 @@
       {
         "name": "London",
         "code": "certificatemanager-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "certificatemanager-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -417,6 +420,10 @@
       {
         "name": "London",
         "code": "cloudformation-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "cloudformation-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -575,6 +582,10 @@
         "code": "cloudtrail-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "cloudtrail-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "cloudtrail-ap-south-1"
       },
@@ -634,6 +645,10 @@
       {
         "name": "London",
         "code": "cloudwatch-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "cloudwatch-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -805,6 +820,10 @@
       {
         "name": "London",
         "code": "codedeploy-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "codedeploy-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -1032,6 +1051,10 @@
         "code": "config-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "config-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "config-ap-south-1"
       },
@@ -1135,6 +1158,10 @@
         "code": "dms-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "dms-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "dms-ap-south-1"
       },
@@ -1203,6 +1230,10 @@
       {
         "name": "London",
         "code": "directconnect-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "directconnect-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -1321,6 +1352,10 @@
       {
         "name": "London",
         "code": "dynamodb-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "dynamodb-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -1470,6 +1505,10 @@
         "code": "elasticbeanstalk-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "elasticbeanstalk-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "elasticbeanstalk-ap-south-1"
       },
@@ -1529,6 +1568,10 @@
       {
         "name": "London",
         "code": "ec2-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "ec2-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -1727,6 +1770,10 @@
         "code": "elb-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "elb-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "elb-ap-south-1"
       },
@@ -1786,6 +1833,10 @@
       {
         "name": "London",
         "code": "emr-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "emr-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -1886,6 +1937,10 @@
         "code": "elasticache-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "elasticache-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "elasticache-ap-south-1"
       },
@@ -1945,6 +2000,10 @@
       {
         "name": "London",
         "code": "elasticsearch-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "elasticsearch-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -2223,6 +2282,10 @@
         "code": "glacier-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "glacier-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "glacier-ap-south-1"
       },
@@ -2387,6 +2450,10 @@
         "code": "iam-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "iam-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "iam-ap-south-1"
       },
@@ -2488,6 +2555,10 @@
       {
         "name": "London",
         "code": "internetconnectivity-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "internetconnectivity-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -2601,6 +2672,10 @@
         "code": "kms-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "kms-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "kms-ap-south-1"
       },
@@ -2660,6 +2735,10 @@
       {
         "name": "London",
         "code": "kinesis-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "kinesis-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -2792,6 +2871,10 @@
       {
         "name": "London",
         "code": "lambda-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "lambda-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -2969,16 +3052,81 @@
     "name": "OpsWorks for Chef Automate",
     "regions": [
       {
+        "name": "N. California",
+        "code": "opsworkschef-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "opsworkschef-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "opsworkschef-us-east-2"
       },
       {
         "name": "Oregon",
         "code": "opsworkschef-us-west-2"
       },
       {
+        "name": "Frankfurt",
+        "code": "opsworkschef-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "opsworkschef-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "opsworkschef-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "opsworkschef-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "opsworkschef-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "OpsWorks for Puppet Enterprise",
+    "regions": [
+      {
+        "name": "N. California",
+        "code": "opsworkspuppet-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "opsworkspuppet-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "opsworkspuppet-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "opsworkspuppet-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "opsworkspuppet-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "opsworkspuppet-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "opsworkspuppet-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "opsworkspuppet-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "opsworkspuppet-ap-northeast-1"
       }
     ]
   },
@@ -3016,6 +3164,10 @@
       {
         "name": "London",
         "code": "opsworks-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "opsworks-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -3071,6 +3223,10 @@
       {
         "name": "Ireland",
         "code": "polly-eu-west-1"
+      },
+      {
+        "name": "Paris",
+        "code": "polly-eu-west-3"
       },
       {
         "name": "Tokyo",
@@ -3145,6 +3301,10 @@
       {
         "name": "London",
         "code": "redshift-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "redshift-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -3223,6 +3383,10 @@
       {
         "name": "London",
         "code": "rds-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "rds-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -3362,6 +3526,10 @@
         "code": "route53-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "route53-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "route53-ap-south-1"
       },
@@ -3436,6 +3604,10 @@
         "code": "servicecatalog-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "servicecatalog-eu-west-3"
+      },
+      {
         "name": "Singapore",
         "code": "servicecatalog-ap-southeast-1"
       },
@@ -3506,6 +3678,10 @@
         "code": "sns-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "sns-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "sns-ap-south-1"
       },
@@ -3565,6 +3741,10 @@
       {
         "name": "London",
         "code": "sqs-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "sqs-eu-west-3"
       },
       {
         "name": "Mumbai",
@@ -3628,6 +3808,10 @@
         "code": "s3-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "s3-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "s3-ap-south-1"
       },
@@ -3689,6 +3873,10 @@
         "code": "swf-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "swf-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "swf-ap-south-1"
       },
@@ -3744,6 +3932,15 @@
       {
         "name": "Tokyo",
         "code": "simpledb-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Single Sign-On",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "sso-us-east-1"
       }
     ]
   },
@@ -3824,6 +4021,10 @@
         "code": "storagegateway-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "storagegateway-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "storagegateway-ap-south-1"
       },
@@ -3883,6 +4084,10 @@
       {
         "name": "London",
         "code": "vpc-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "vpc-eu-west-3"
       },
       {
         "name": "Mumbai",

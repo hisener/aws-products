@@ -1,7 +1,6 @@
 [
   "Alexa for Business",
   "API Gateway",
-  "AppStream",
   "AppStream 2.0",
   "Athena",
   "Auto Scaling",
@@ -78,6 +77,7 @@
   "Mobile Hub",
   "MQ",
   "OpsWorks for Chef Automate",
+  "OpsWorks for Puppet Enterprise",
   "OpsWorks Stacks",
   "Organizations",
   "Pinpoint",
@@ -99,6 +99,7 @@
   "Simple Storage Service",
   "Simple Workflow Service",
   "SimpleDB",
+  "Single Sign-On",
   "Step Functions",
   "Storage Gateway",
   "Virtual Private Cloud",
