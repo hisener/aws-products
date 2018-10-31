@@ -74,6 +74,15 @@
     ]
   },
   {
+    "name": "Application Discovery Service",
+    "regions": [
+      {
+        "name": "Oregon",
+        "code": "applicationdiscoveryservice-us-west-2"
+      }
+    ]
+  },
+  {
     "name": "AppStream 2.0",
     "regions": [
       {
@@ -85,12 +94,69 @@
         "code": "appstream2-us-west-2"
       },
       {
+        "name": "Frankfurt",
+        "code": "appstream2-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "appstream2-eu-west-1"
       },
       {
+        "name": "Singapore",
+        "code": "appstream2-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "appstream2-ap-southeast-2"
+      },
+      {
         "name": "Tokyo",
         "code": "appstream2-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "AppSync",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "appsync-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "appsync-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "appsync-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "appsync-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "appsync-eu-west-1"
+      },
+      {
+        "name": "Mumbai",
+        "code": "appsync-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "appsync-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "appsync-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "appsync-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "appsync-ap-northeast-1"
       }
     ]
   },
@@ -191,6 +257,10 @@
         "code": "autoscaling-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "autoscaling-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "autoscaling-ap-northeast-2"
       },
@@ -212,6 +282,14 @@
     "name": "Batch",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "batch-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "batch-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "batch-us-east-1"
       },
@@ -224,6 +302,10 @@
         "code": "batch-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "batch-sa-east-1"
+      },
+      {
         "name": "Frankfurt",
         "code": "batch-eu-central-1"
       },
@@ -234,6 +316,14 @@
       {
         "name": "London",
         "code": "batch-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "batch-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "batch-ap-northeast-2"
       },
       {
         "name": "Singapore",
@@ -302,6 +392,10 @@
         "code": "certificatemanager-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "certificatemanager-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "certificatemanager-ap-northeast-2"
       },
@@ -328,6 +422,10 @@
     "name": "Cloud Directory",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "clouddirectory-ca-central-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "clouddirectory-us-east-1"
       },
@@ -338,6 +436,10 @@
       {
         "name": "Oregon",
         "code": "clouddirectory-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "clouddirectory-eu-central-1"
       },
       {
         "name": "Ireland",
@@ -428,6 +530,10 @@
       {
         "name": "Mumbai",
         "code": "cloudformation-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "cloudformation-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -590,6 +696,10 @@
         "code": "cloudtrail-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "cloudtrail-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "cloudtrail-ap-northeast-2"
       },
@@ -655,6 +765,10 @@
         "code": "cloudwatch-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "cloudwatch-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "cloudwatch-ap-northeast-2"
       },
@@ -696,6 +810,10 @@
         "code": "codebuild-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "codebuild-sa-east-1"
+      },
+      {
         "name": "Frankfurt",
         "code": "codebuild-eu-central-1"
       },
@@ -706,6 +824,18 @@
       {
         "name": "London",
         "code": "codebuild-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "codebuild-eu-west-3"
+      },
+      {
+        "name": "Mumbai",
+        "code": "codebuild-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "codebuild-ap-northeast-2"
       },
       {
         "name": "Singapore",
@@ -830,6 +960,10 @@
         "code": "codedeploy-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "codedeploy-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "codedeploy-ap-northeast-2"
       },
@@ -912,6 +1046,14 @@
     "name": "CodeStar",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "codestar-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "codestar-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "codestar-us-east-1"
       },
@@ -932,18 +1074,34 @@
         "code": "codestar-eu-west-1"
       },
       {
+        "name": "London",
+        "code": "codestar-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "codestar-ap-northeast-2"
+      },
+      {
         "name": "Singapore",
         "code": "codestar-ap-southeast-1"
       },
       {
         "name": "Sydney",
         "code": "codestar-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "codestar-ap-northeast-1"
       }
     ]
   },
   {
     "name": "Cognito",
     "regions": [
+      {
+        "name": "Montreal",
+        "code": "cognito-ca-central-1"
+      },
       {
         "name": "N. Virginia",
         "code": "cognito-us-east-1"
@@ -1008,6 +1166,10 @@
       {
         "name": "Ireland",
         "code": "comprehend-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "comprehend-ap-southeast-2"
       }
     ]
   },
@@ -1084,12 +1246,33 @@
         "code": "connect-us-east-1"
       },
       {
+        "name": "Oregon",
+        "code": "connect-us-west-2"
+      },
+      {
         "name": "Frankfurt",
         "code": "connect-eu-central-1"
       },
       {
         "name": "Sydney",
         "code": "connect-ap-southeast-2"
+      }
+    ]
+  },
+  {
+    "name": "Data Lifecycle Manager",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "dlm-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "dlm-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "dlm-eu-west-1"
       }
     ]
   },
@@ -1180,6 +1363,15 @@
       {
         "name": "Tokyo",
         "code": "dms-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "DeepLens",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "deeplens-us-east-1"
       }
     ]
   },
@@ -1297,6 +1489,10 @@
         "code": "directoryservice-eu-west-2"
       },
       {
+        "name": "Mumbai",
+        "code": "directoryservice-ap-south-1"
+      },
+      {
         "name": "Seoul",
         "code": "directoryservice-ap-northeast-2"
       },
@@ -1362,6 +1558,10 @@
         "code": "dynamodb-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "dynamodb-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "dynamodb-ap-northeast-2"
       },
@@ -1391,6 +1591,10 @@
         "code": "dynamodb-dax-us-east-1"
       },
       {
+        "name": "Ohio",
+        "code": "dynamodb-dax-us-east-2"
+      },
+      {
         "name": "Oregon",
         "code": "dynamodb-dax-us-west-2"
       },
@@ -1399,69 +1603,16 @@
         "code": "dynamodb-dax-eu-west-1"
       },
       {
-        "name": "Tokyo",
-        "code": "dynamodb-dax-ap-northeast-1"
-      }
-    ]
-  },
-  {
-    "name": "EC2 Systems Manager",
-    "regions": [
-      {
-        "name": "Montreal",
-        "code": "ec2systemsmanager-ca-central-1"
-      },
-      {
-        "name": "N. California",
-        "code": "ec2systemsmanager-us-west-1"
-      },
-      {
-        "name": "N. Virginia",
-        "code": "ec2systemsmanager-us-east-1"
-      },
-      {
-        "name": "Ohio",
-        "code": "ec2systemsmanager-us-east-2"
-      },
-      {
-        "name": "Oregon",
-        "code": "ec2systemsmanager-us-west-2"
-      },
-      {
-        "name": "Sao Paulo",
-        "code": "ec2systemsmanager-sa-east-1"
-      },
-      {
-        "name": "Frankfurt",
-        "code": "ec2systemsmanager-eu-central-1"
-      },
-      {
-        "name": "Ireland",
-        "code": "ec2systemsmanager-eu-west-1"
-      },
-      {
-        "name": "London",
-        "code": "ec2systemsmanager-eu-west-2"
-      },
-      {
-        "name": "Mumbai",
-        "code": "ec2systemsmanager-ap-south-1"
-      },
-      {
-        "name": "Seoul",
-        "code": "ec2systemsmanager-ap-northeast-2"
-      },
-      {
         "name": "Singapore",
-        "code": "ec2systemsmanager-ap-southeast-1"
+        "code": "dynamodb-dax-ap-southeast-1"
       },
       {
         "name": "Sydney",
-        "code": "ec2systemsmanager-ap-southeast-2"
+        "code": "dynamodb-dax-ap-southeast-2"
       },
       {
         "name": "Tokyo",
-        "code": "ec2systemsmanager-ap-northeast-1"
+        "code": "dynamodb-dax-ap-northeast-1"
       }
     ]
   },
@@ -1511,6 +1662,10 @@
       {
         "name": "Mumbai",
         "code": "elasticbeanstalk-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "elasticbeanstalk-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -1578,6 +1733,10 @@
         "code": "ec2-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "ec2-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "ec2-ap-northeast-2"
       },
@@ -1619,6 +1778,10 @@
         "code": "ecr-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "ecr-sa-east-1"
+      },
+      {
         "name": "Frankfurt",
         "code": "ecr-eu-central-1"
       },
@@ -1629,6 +1792,10 @@
       {
         "name": "London",
         "code": "ecr-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "ecr-ap-south-1"
       },
       {
         "name": "Seoul",
@@ -1672,6 +1839,10 @@
         "code": "ecs-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "ecs-sa-east-1"
+      },
+      {
         "name": "Frankfurt",
         "code": "ecs-eu-central-1"
       },
@@ -1682,6 +1853,10 @@
       {
         "name": "London",
         "code": "ecs-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "ecs-ap-south-1"
       },
       {
         "name": "Seoul",
@@ -1702,8 +1877,25 @@
     ]
   },
   {
+    "name": "Elastic Container Service for Kubernetes",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "eks-us-east-1"
+      },
+      {
+        "name": "Oregon",
+        "code": "eks-us-west-2"
+      }
+    ]
+  },
+  {
     "name": "Elastic File System",
     "regions": [
+      {
+        "name": "N. California",
+        "code": "elasticfilesystem-us-west-1"
+      },
       {
         "name": "N. Virginia",
         "code": "elasticfilesystem-us-east-1"
@@ -1725,8 +1917,20 @@
         "code": "elasticfilesystem-eu-west-1"
       },
       {
+        "name": "Seoul",
+        "code": "elasticfilesystem-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "elasticfilesystem-ap-southeast-1"
+      },
+      {
         "name": "Sydney",
         "code": "elasticfilesystem-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elasticfilesystem-ap-northeast-1"
       }
     ]
   },
@@ -1776,6 +1980,10 @@
       {
         "name": "Mumbai",
         "code": "elb-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "elb-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -1841,6 +2049,10 @@
       {
         "name": "Mumbai",
         "code": "emr-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "emr-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -1943,6 +2155,10 @@
       {
         "name": "Mumbai",
         "code": "elasticache-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "elasticache-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -2076,12 +2292,32 @@
         "code": "elementalmedialive-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "elementalmedialive-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "elementalmedialive-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "elementalmedialive-eu-west-1"
       },
       {
+        "name": "Mumbai",
+        "code": "elementalmedialive-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "elementalmedialive-ap-northeast-2"
+      },
+      {
         "name": "Singapore",
         "code": "elementalmedialive-ap-southeast-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elementalmedialive-ap-northeast-1"
       }
     ]
   },
@@ -2126,12 +2362,20 @@
         "code": "elementalmediastore-us-west-2"
       },
       {
+        "name": "Frankfurt",
+        "code": "elementalmediastore-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "elementalmediastore-eu-west-1"
       },
       {
         "name": "Sydney",
         "code": "elementalmediastore-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "elementalmediastore-ap-northeast-1"
       }
     ]
   },
@@ -2145,6 +2389,35 @@
       {
         "name": "Ireland",
         "code": "mediatailor-eu-west-1"
+      },
+      {
+        "name": "Singapore",
+        "code": "mediatailor-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "mediatailor-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "mediatailor-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Firewall Manager",
+    "regions": [
+      {
+        "name": "N. California",
+        "code": "fms-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "fms-us-east-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "fms-eu-west-1"
       }
     ]
   },
@@ -2290,6 +2563,10 @@
         "code": "glacier-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "glacier-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "glacier-ap-northeast-2"
       },
@@ -2311,6 +2588,10 @@
     "name": "Glue",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "glue-ca-central-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "glue-us-east-1"
       },
@@ -2321,6 +2602,38 @@
       {
         "name": "Oregon",
         "code": "glue-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "glue-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "glue-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "glue-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "glue-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "glue-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "glue-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "glue-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "glue-ap-northeast-1"
       }
     ]
   },
@@ -2338,6 +2651,10 @@
       {
         "name": "Frankfurt",
         "code": "awsgreengrass-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "awsgreengrass-eu-west-1"
       },
       {
         "name": "Sydney",
@@ -2412,68 +2729,8 @@
   },
   {
     "name": "Identity and Access Management",
-    "regions": [
-      {
-        "name": "Montreal",
-        "code": "iam-ca-central-1"
-      },
-      {
-        "name": "N. California",
-        "code": "iam-us-west-1"
-      },
-      {
-        "name": "N. Virginia",
-        "code": "iam-us-east-1"
-      },
-      {
-        "name": "Ohio",
-        "code": "iam-us-east-2"
-      },
-      {
-        "name": "Oregon",
-        "code": "iam-us-west-2"
-      },
-      {
-        "name": "Sao Paulo",
-        "code": "iam-sa-east-1"
-      },
-      {
-        "name": "Frankfurt",
-        "code": "iam-eu-central-1"
-      },
-      {
-        "name": "Ireland",
-        "code": "iam-eu-west-1"
-      },
-      {
-        "name": "London",
-        "code": "iam-eu-west-2"
-      },
-      {
-        "name": "Paris",
-        "code": "iam-eu-west-3"
-      },
-      {
-        "name": "Mumbai",
-        "code": "iam-ap-south-1"
-      },
-      {
-        "name": "Seoul",
-        "code": "iam-ap-northeast-2"
-      },
-      {
-        "name": "Singapore",
-        "code": "iam-ap-southeast-1"
-      },
-      {
-        "name": "Sydney",
-        "code": "iam-ap-southeast-2"
-      },
-      {
-        "name": "Tokyo",
-        "code": "iam-ap-northeast-1"
-      }
-    ]
+    "regions": null,
+    "code": "iam"
   },
   {
     "name": "Import/Export",
@@ -2492,8 +2749,16 @@
         "code": "inspector-us-east-1"
       },
       {
+        "name": "Ohio",
+        "code": "inspector-us-east-2"
+      },
+      {
         "name": "Oregon",
         "code": "inspector-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "inspector-eu-central-1"
       },
       {
         "name": "Ireland",
@@ -2516,6 +2781,11 @@
         "code": "inspector-ap-northeast-1"
       }
     ]
+  },
+  {
+    "name": "Inter-Region VPC Peering",
+    "regions": null,
+    "code": "interregionvpcpeering"
   },
   {
     "name": "Internet Connectivity",
@@ -2628,6 +2898,109 @@
     ]
   },
   {
+    "name": "IoT 1-Click",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "iot1click-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "iot1click-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "iot1click-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "iot1click-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "iot1click-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "iot1click-eu-west-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "iot1click-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "IoT Analytics",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "iotanalytics-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "iotanalytics-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "iotanalytics-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "iotanalytics-eu-west-1"
+      },
+      {
+        "name": "Tokyo",
+        "code": "iotanalytics-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "IoT Device Defender",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "iotdevicedefender-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "iotdevicedefender-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "iotdevicedefender-us-west-2"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "iotdevicedefender-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "iotdevicedefender-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "iotdevicedefender-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "iotdevicedefender-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "iotdevicedefender-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "iotdevicedefender-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "iotdevicedefender-ap-northeast-1"
+      }
+    ]
+  },
+  {
     "name": "IoT Device Management",
     "regions": null,
     "code": "awsiotdevicemanagement"
@@ -2678,6 +3051,10 @@
       {
         "name": "Mumbai",
         "code": "kms-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "kms-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -2745,6 +3122,10 @@
         "code": "kinesis-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "kinesis-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "kinesis-ap-northeast-2"
       },
@@ -2783,6 +3164,14 @@
     "name": "Kinesis Firehose",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "firehose-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "firehose-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "firehose-us-east-1"
       },
@@ -2795,12 +3184,40 @@
         "code": "firehose-us-west-2"
       },
       {
+        "name": "Sao Paulo",
+        "code": "firehose-sa-east-1"
+      },
+      {
         "name": "Frankfurt",
         "code": "firehose-eu-central-1"
       },
       {
         "name": "Ireland",
         "code": "firehose-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "firehose-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "firehose-eu-west-3"
+      },
+      {
+        "name": "Mumbai",
+        "code": "firehose-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "firehose-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "firehose-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "firehose-ap-southeast-2"
       },
       {
         "name": "Tokyo",
@@ -2915,6 +3332,10 @@
     "name": "Lightsail",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "lightsail-ca-central-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "lightsail-us-east-1"
       },
@@ -2939,8 +3360,16 @@
         "code": "lightsail-eu-west-2"
       },
       {
+        "name": "Paris",
+        "code": "lightsail-eu-west-3"
+      },
+      {
         "name": "Mumbai",
         "code": "lightsail-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "lightsail-ap-northeast-2"
       },
       {
         "name": "Singapore",
@@ -3023,6 +3452,10 @@
     "name": "MQ",
     "regions": [
       {
+        "name": "N. California",
+        "code": "mq-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "mq-us-east-1"
       },
@@ -3043,8 +3476,110 @@
         "code": "mq-eu-west-1"
       },
       {
+        "name": "Seoul",
+        "code": "mq-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "mq-ap-southeast-1"
+      },
+      {
         "name": "Sydney",
         "code": "mq-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "mq-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "NAT Gateway",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "natgateway-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "natgateway-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "natgateway-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "natgateway-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "natgateway-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "natgateway-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "natgateway-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "natgateway-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "natgateway-eu-west-2"
+      },
+      {
+        "name": "Paris",
+        "code": "natgateway-eu-west-3"
+      },
+      {
+        "name": "Mumbai",
+        "code": "natgateway-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "natgateway-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "natgateway-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "natgateway-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "natgateway-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Neptune",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "neptune-db-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "neptune-db-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "neptune-db-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "neptune-db-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "neptune-db-eu-west-2"
       }
     ]
   },
@@ -3260,6 +3795,10 @@
       {
         "name": "Sydney",
         "code": "quicksight-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "quicksight-ap-northeast-1"
       }
     ]
   },
@@ -3311,6 +3850,10 @@
         "code": "redshift-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "redshift-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "redshift-ap-northeast-2"
       },
@@ -3336,12 +3879,24 @@
         "code": "rekognition-us-east-1"
       },
       {
+        "name": "Ohio",
+        "code": "rekognition-us-east-2"
+      },
+      {
         "name": "Oregon",
         "code": "rekognition-us-west-2"
       },
       {
         "name": "Ireland",
         "code": "rekognition-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "rekognition-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "rekognition-ap-northeast-1"
       }
     ]
   },
@@ -3391,6 +3946,10 @@
       {
         "name": "Mumbai",
         "code": "rds-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "rds-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -3534,6 +4093,10 @@
         "code": "route53-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "route53-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "route53-ap-northeast-2"
       },
@@ -3567,8 +4130,146 @@
         "code": "sagemaker-us-west-2"
       },
       {
+        "name": "Frankfurt",
+        "code": "sagemaker-eu-central-1"
+      },
+      {
         "name": "Ireland",
         "code": "sagemaker-eu-west-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "sagemaker-ap-northeast-2"
+      },
+      {
+        "name": "Sydney",
+        "code": "sagemaker-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "sagemaker-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Secrets Manager",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "secretsmanager-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "secretsmanager-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "secretsmanager-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "secretsmanager-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "secretsmanager-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "secretsmanager-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "secretsmanager-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "secretsmanager-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "secretsmanager-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "secretsmanager-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "secretsmanager-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "secretsmanager-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "secretsmanager-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "secretsmanager-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Serverless Application Repository",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "serverlessrepo-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "serverlessrepo-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "serverlessrepo-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "serverlessrepo-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "serverlessrepo-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "serverlessrepo-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "serverlessrepo-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "serverlessrepo-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "serverlessrepo-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "serverlessrepo-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "serverlessrepo-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "serverlessrepo-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "serverlessrepo-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "serverlessrepo-ap-northeast-1"
       }
     ]
   },
@@ -3686,6 +4387,10 @@
         "code": "sns-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "sns-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "sns-ap-northeast-2"
       },
@@ -3749,6 +4454,10 @@
       {
         "name": "Mumbai",
         "code": "sqs-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "sqs-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -3816,6 +4525,10 @@
         "code": "s3-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "s3-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "s3-ap-northeast-2"
       },
@@ -3879,6 +4592,10 @@
       {
         "name": "Mumbai",
         "code": "swf-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "swf-ap-northeast-3"
       },
       {
         "name": "Seoul",
@@ -3948,6 +4665,14 @@
     "name": "Step Functions",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "state-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "state-us-west-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "state-us-east-1"
       },
@@ -3970,6 +4695,14 @@
       {
         "name": "London",
         "code": "state-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "state-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "state-ap-southeast-1"
       },
       {
         "name": "Sydney",
@@ -4047,6 +4780,146 @@
     ]
   },
   {
+    "name": "Sumerian",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "sumerian-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "sumerian-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "sumerian-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "sumerian-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "sumerian-eu-west-2"
+      },
+      {
+        "name": "Sydney",
+        "code": "sumerian-ap-southeast-2"
+      }
+    ]
+  },
+  {
+    "name": "Systems Manager",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "ec2systemsmanager-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "ec2systemsmanager-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "ec2systemsmanager-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "ec2systemsmanager-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "ec2systemsmanager-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "ec2systemsmanager-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "ec2systemsmanager-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "ec2systemsmanager-eu-west-1"
+      },
+      {
+        "name": "London",
+        "code": "ec2systemsmanager-eu-west-2"
+      },
+      {
+        "name": "Mumbai",
+        "code": "ec2systemsmanager-ap-south-1"
+      },
+      {
+        "name": "Seoul",
+        "code": "ec2systemsmanager-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "ec2systemsmanager-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "ec2systemsmanager-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "ec2systemsmanager-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "Transcribe",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "transcribe-ca-central-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "transcribe-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "transcribe-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "transcribe-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "transcribe-eu-west-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "transcribe-ap-southeast-2"
+      }
+    ]
+  },
+  {
+    "name": "Translate",
+    "regions": [
+      {
+        "name": "N. Virginia",
+        "code": "translate-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "translate-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "translate-us-west-2"
+      },
+      {
+        "name": "Ireland",
+        "code": "translate-eu-west-1"
+      }
+    ]
+  },
+  {
     "name": "Virtual Private Cloud",
     "regions": [
       {
@@ -4094,6 +4967,10 @@
         "code": "vpc-ap-south-1"
       },
       {
+        "name": "Osaka-Local",
+        "code": "vpc-ap-northeast-3"
+      },
+      {
         "name": "Seoul",
         "code": "vpc-ap-northeast-2"
       },
@@ -4108,6 +4985,71 @@
       {
         "name": "Tokyo",
         "code": "vpc-ap-northeast-1"
+      }
+    ]
+  },
+  {
+    "name": "VPCE PrivateLink",
+    "regions": [
+      {
+        "name": "Montreal",
+        "code": "privatelink-ca-central-1"
+      },
+      {
+        "name": "N. California",
+        "code": "privatelink-us-west-1"
+      },
+      {
+        "name": "N. Virginia",
+        "code": "privatelink-us-east-1"
+      },
+      {
+        "name": "Ohio",
+        "code": "privatelink-us-east-2"
+      },
+      {
+        "name": "Oregon",
+        "code": "privatelink-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "privatelink-sa-east-1"
+      },
+      {
+        "name": "Frankfurt",
+        "code": "privatelink-eu-central-1"
+      },
+      {
+        "name": "Ireland",
+        "code": "privatelink-eu-west-1"
+      },
+      {
+        "name": "Paris",
+        "code": "privatelink-eu-west-3"
+      },
+      {
+        "name": "Mumbai",
+        "code": "privatelink-ap-south-1"
+      },
+      {
+        "name": "Osaka-Local",
+        "code": "privatelink-ap-northeast-3"
+      },
+      {
+        "name": "Seoul",
+        "code": "privatelink-ap-northeast-2"
+      },
+      {
+        "name": "Singapore",
+        "code": "privatelink-ap-southeast-1"
+      },
+      {
+        "name": "Sydney",
+        "code": "privatelink-ap-southeast-2"
+      },
+      {
+        "name": "Tokyo",
+        "code": "privatelink-ap-northeast-1"
       }
     ]
   },
@@ -4166,12 +5108,20 @@
     "name": "WorkSpaces",
     "regions": [
       {
+        "name": "Montreal",
+        "code": "workspaces-ca-central-1"
+      },
+      {
         "name": "N. Virginia",
         "code": "workspaces-us-east-1"
       },
       {
         "name": "Oregon",
         "code": "workspaces-us-west-2"
+      },
+      {
+        "name": "Sao Paulo",
+        "code": "workspaces-sa-east-1"
       },
       {
         "name": "Frankfurt",
@@ -4184,6 +5134,10 @@
       {
         "name": "London",
         "code": "workspaces-eu-west-2"
+      },
+      {
+        "name": "Seoul",
+        "code": "workspaces-ap-northeast-2"
       },
       {
         "name": "Singapore",
